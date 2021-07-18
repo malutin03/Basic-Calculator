@@ -1,0 +1,4 @@
+#Mon Jul 19 00:29:39 IRKT 2021
+base.0=F\:\\AndroidStudioProjects\\Basic Calculator\\Basic Calculator\\task\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

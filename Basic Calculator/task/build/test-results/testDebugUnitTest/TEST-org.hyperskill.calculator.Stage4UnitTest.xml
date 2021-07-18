@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.calculator.Stage4UnitTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-07-18T16:29:45" hostname="MAISK2" time="10.761">
+  <properties/>
+  <testcase name="testShouldCheckCalculatorSetsHint" classname="org.hyperskill.calculator.Stage4UnitTest" time="9.966"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheIntAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.366"/>
+  <testcase name="testShouldCheckCalculatorReturnsTheDoubleAnswer" classname="org.hyperskill.calculator.Stage4UnitTest" time="0.429"/>
+  <system-out><![CDATA[[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorSetsHint: sdk=28; resources=BINARY
+Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=28
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheIntAnswer: sdk=28; resources=BINARY
+[Robolectric] org.hyperskill.calculator.Stage4UnitTest.testShouldCheckCalculatorReturnsTheDoubleAnswer: sdk=28; resources=BINARY
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
